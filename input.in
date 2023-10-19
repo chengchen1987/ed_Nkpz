@@ -1,0 +1,10 @@
+LatticeSize = 10
+nup = 5
+bc = 0
+t = 1
+V = 1
+alpha = 1
+evo_time_max = 1e10
+evo_time_steps = 400
+evo_time_IncStyles = 1
+evo_nini = 10
